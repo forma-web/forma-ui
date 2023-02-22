@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c44e9a53a40d84c9",
+        "id": "c4180d91f2b2d968",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb932c851fb02b7",
+            "id": "5e457a8f65f14639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Список компонентов.md",
-                "mode": "preview",
+                "file": "examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0e8498b1827dc2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "components.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "383f83be7bc3aaf1",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Список компонентов.md",
+                "file": "components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Список компонентов.md",
+                "file": "components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Список компонентов.md"
+                "file": "components.md"
               }
             }
           }
@@ -146,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffb932c851fb02b7",
+  "active": "e0e8498b1827dc2d",
   "lastOpenFiles": [
-    "Список шаблонов.md",
-    "README.md",
-    "2023-02-22.md",
+    "examples.md",
+    "components.md",
     "Moodboard/Moodboard.canvas",
-    "Moodboard/Pasted image 20230222215744.png",
-    "Moodboard/Pasted image 20230222215835.png",
-    "Moodboard/Pasted image 20230222215748.png",
-    "Moodboard/Pasted image 20230222220000.png",
-    "Moodboard/Pasted image 20230222215924.png",
-    "Принципы.md"
+    "templates.md",
+    "README.md",
+    "Moodboard/Pasted image 20230222233745.png",
+    "Moodboard/Pasted image 20230222155141.png",
+    "Moodboard/Pasted image 20230222155624.png",
+    "Moodboard/Pasted image 20230222155812.png",
+    "Moodboard/Pasted image 20230222160141.png"
   ]
 }
