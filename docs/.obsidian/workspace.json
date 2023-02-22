@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "03fab197e57e13f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c44e9a53a40d84c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffb932c851fb02b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Список компонентов.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e344e57dae50992a",
+    "type": "split",
+    "children": [
+      {
+        "id": "903d0e65588db0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "040e0d2f3ffec38b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18f18782a0c4e721",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d244c4a009c45005",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "383f83be7bc3aaf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b14a124fc6cf6827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8115057a8392e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Список компонентов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e94391f07e513d09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Список компонентов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28c1e4c4f0eace31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d7ced47a829d7c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Список компонентов.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ffb932c851fb02b7",
+  "lastOpenFiles": [
+    "Список шаблонов.md",
+    "README.md",
+    "2023-02-22.md",
+    "Moodboard/Moodboard.canvas",
+    "Moodboard/Pasted image 20230222215744.png",
+    "Moodboard/Pasted image 20230222215835.png",
+    "Moodboard/Pasted image 20230222215748.png",
+    "Moodboard/Pasted image 20230222220000.png",
+    "Moodboard/Pasted image 20230222215924.png",
+    "Принципы.md"
+  ]
+}
